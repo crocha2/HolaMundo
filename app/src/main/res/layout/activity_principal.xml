@@ -40,7 +40,8 @@
             android:id="@+id/cmdBoton"
             android:text="@string/saludar"
             android:textAppearance="@style/TextAppearance.AppCompat"
-            android:elevation="0dp" />
+            android:elevation="0dp"
+            android:onClick="saludar" />
 
         <TextView
             android:layout_width="match_parent"
