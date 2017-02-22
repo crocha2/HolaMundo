@@ -16,5 +16,36 @@
         android:layout_height="match_parent"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"></LinearLayout>
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            android:gravity="center_horizontal"
+            android:text="@string/titulo"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:textSize="24sp" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/txtNombre" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/cmdBoton"
+            android:text="@string/saludar"
+            android:textAppearance="@style/TextAppearance.AppCompat"
+            android:elevation="0dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/lblMensaje"
+            android:textSize="24sp" />
+    </LinearLayout>
 </RelativeLayout>
