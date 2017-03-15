@@ -6,4 +6,5 @@
     <string name="titulo">"Something "</string>
     <string name="apellido">LastName</string>
     <string name="nombre">Name</string>
+    <string name="bienvenido">Welcome</string>
 </resources>
