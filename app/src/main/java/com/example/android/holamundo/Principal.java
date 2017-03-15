@@ -17,7 +17,7 @@ public class Principal extends AppCompatActivity {
         setContentView(R.layout.activity_principal);
 
         cajaNombre = (EditText)findViewById(R.id.txtNombre);
-        cajaMensaje = (TextView)findViewById(R.id.lblMensaje);
+       // cajaMensaje = (TextView)findViewById(R.id.lblMensaje);
 
     }
 
