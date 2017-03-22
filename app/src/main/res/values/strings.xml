@@ -15,4 +15,11 @@
     <string name="casado">Casado(a)</string>
     <string name="divorciado">Divorciado(a)</string>
     <string name="borrar">Borrar</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="datos">Tus datos son:</string>
+    <string-array name="generos">
+        <item>@string/masculino</item>
+        <item>@string/femenino</item>
+    </string-array>
 </resources>

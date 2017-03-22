@@ -10,4 +10,13 @@
     <string name="parte_saludo2">Welcome to this app</string>
     <string name="error_1">"Type your name "</string>
     <string name="error_2">Type your lastName</string>
+    <string name="borrar">Clear</string>
+    <string name="casado">Married</string>
+    <string name="divorciado">Divorce</string>
+    <string name="estado_civil">Civil State</string>
+    <string name="femenino">Female</string>
+    <string name="genero">Gender</string>
+    <string name="masculino">Male</string>
+    <string name="soltero">Single</string>
+    <string name="datos">Your personal information is:</string>
 </resources>
