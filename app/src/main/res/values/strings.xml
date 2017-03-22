@@ -9,4 +9,10 @@
     <string name="parte_saludo2">Bienvenido a esta aplicación</string>
     <string name="error_1">Digite el nombre</string>
     <string name="error_2">Digite el apellido</string>
+    <string name="genero">Genero</string>
+    <string name="estado_civil">Estado Civil</string>
+    <string name="soltero">Soltero(a)</string>
+    <string name="casado">Casado(a)</string>
+    <string name="divorciado">Divorciado(a)</string>
+    <string name="borrar">Borrar</string>
 </resources>
